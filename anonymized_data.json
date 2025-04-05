@@ -1,0 +1,804 @@
+{
+  "dataResources": [
+    {
+      "patient_id": "patient_001",
+      "gestaional_age": "32",
+      "demographic_age": "31",
+      "BMI": "38",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_002",
+      "gestaional_age": "25",
+      "demographic_age": "28",
+      "BMI": "36",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_003",
+      "gestaional_age": "22",
+      "demographic_age": "25",
+      "BMI": "22",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_004",
+      "gestaional_age": "33",
+      "demographic_age": "23",
+      "BMI": "33",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_005",
+      "gestaional_age": "unknown",
+      "demographic_age": "37",
+      "BMI": "35",
+      "examination_findings": [
+        "Normal skull apperance",
+        "Choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "\u2014 Spina bifida found",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_006",
+      "gestaional_age": "35",
+      "demographic_age": "27",
+      "BMI": "26",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_007",
+      "gestaional_age": "45",
+      "demographic_age": "39",
+      "BMI": "21",
+      "examination_findings": [
+        "Normal skull apperance",
+        "\u2014 Choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "Spina bifida found",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsggfetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_008",
+      "gestaional_age": "28",
+      "demographic_age": "24",
+      "BMI": "29",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "\u2014 Spina bifida found",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_009",
+      "gestaional_age": "44",
+      "demographic_age": "39",
+      "BMI": "27",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_010",
+      "gestaional_age": "24",
+      "demographic_age": "27",
+      "BMI": "31",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "Spina bifida found",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsggfetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_011",
+      "gestaional_age": "27",
+      "demographic_age": "26",
+      "BMI": "36",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_012",
+      "gestaional_age": "35",
+      "demographic_age": "31",
+      "BMI": "18",
+      "examination_findings": [
+        "Normal skull apperance",
+        "Choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "\u2014 Spina bifida found",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_013",
+      "gestaional_age": "40",
+      "demographic_age": "22",
+      "BMI": "33",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_014",
+      "gestaional_age": "28",
+      "demographic_age": "34",
+      "BMI": "24",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_015",
+      "gestaional_age": "26",
+      "demographic_age": "23",
+      "BMI": "18",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_016",
+      "gestaional_age": "27",
+      "demographic_age": "38",
+      "BMI": "25",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_017",
+      "gestaional_age": "37",
+      "demographic_age": "29",
+      "BMI": "21",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_018",
+      "gestaional_age": "26",
+      "demographic_age": "22",
+      "BMI": "19",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_019",
+      "gestaional_age": "45",
+      "demographic_age": "29",
+      "BMI": "31",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_020",
+      "gestaional_age": "39",
+      "demographic_age": "37",
+      "BMI": "35",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "\u2014 Spina bifida found",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_021",
+      "gestaional_age": "31",
+      "demographic_age": "40",
+      "BMI": "37",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_022",
+      "gestaional_age": "24",
+      "demographic_age": "30",
+      "BMI": "20",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_023",
+      "gestaional_age": "32",
+      "demographic_age": "35",
+      "BMI": "24",
+      "examination_findings": [
+        "Normal skull apperance",
+        "\u2014 Choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "Spina bifida found",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsggfetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_024",
+      "gestaional_age": "43",
+      "demographic_age": "22",
+      "BMI": "24",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_025",
+      "gestaional_age": "36",
+      "demographic_age": "30",
+      "BMI": "23",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "Spina bifida found",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsggfetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_026",
+      "gestaional_age": "44",
+      "demographic_age": "35",
+      "BMI": "26",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "\u2014 Spina bifida found",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_027",
+      "gestaional_age": "42",
+      "demographic_age": "25",
+      "BMI": "29",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_028",
+      "gestaional_age": "39",
+      "demographic_age": "24",
+      "BMI": "32",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_029",
+      "gestaional_age": "42",
+      "demographic_age": "29",
+      "BMI": "38",
+      "examination_findings": [
+        "Normal skull apperance",
+        "Choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "\u2014 Spina bifida found",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_030",
+      "gestaional_age": "43",
+      "demographic_age": "33",
+      "BMI": "28",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_031",
+      "gestaional_age": "34",
+      "demographic_age": "38",
+      "BMI": "35",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_032",
+      "gestaional_age": "36",
+      "demographic_age": "28",
+      "BMI": "26",
+      "examination_findings": [
+        "Normal skull apperance",
+        "Choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "\u2014 Spina bifida found",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_033",
+      "gestaional_age": "25",
+      "demographic_age": "28",
+      "BMI": "34",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_034",
+      "gestaional_age": "unknown",
+      "demographic_age": "36",
+      "BMI": "21",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_035",
+      "gestaional_age": "40",
+      "demographic_age": "30",
+      "BMI": "37",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_036",
+      "gestaional_age": "42",
+      "demographic_age": "33",
+      "BMI": "34",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_037",
+      "gestaional_age": "30",
+      "demographic_age": "23",
+      "BMI": "18",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "Spina bifida found",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsggfetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_038",
+      "gestaional_age": "34",
+      "demographic_age": "39",
+      "BMI": "19",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_039",
+      "gestaional_age": "29",
+      "demographic_age": "34",
+      "BMI": "32",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_040",
+      "gestaional_age": "41",
+      "demographic_age": "31",
+      "BMI": "28",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_041",
+      "gestaional_age": "37",
+      "demographic_age": "26",
+      "BMI": "30",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_042",
+      "gestaional_age": "22",
+      "demographic_age": "32",
+      "BMI": "25",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns no fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_043",
+      "gestaional_age": "23",
+      "demographic_age": "38",
+      "BMI": "31",
+      "examination_findings": [
+        "Normal skull apperance",
+        "\u2014 Choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "Spina bifida found",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsggfetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_044",
+      "gestaional_age": "41",
+      "demographic_age": "24",
+      "BMI": "30",
+      "examination_findings": [
+        "Normal skull apperance",
+        "Choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "\u2014 Spina bifida found",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_045",
+      "gestaional_age": "30",
+      "demographic_age": "35",
+      "BMI": "22",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_046",
+      "gestaional_age": "38",
+      "demographic_age": "27",
+      "BMI": "22",
+      "examination_findings": [
+        "Normal skull apperance",
+        "Choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "\u2014 Spina bifida found",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patterns fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_047",
+      "gestaional_age": "31",
+      "demographic_age": "37",
+      "BMI": "23",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_048",
+      "gestaional_age": "33",
+      "demographic_age": "36",
+      "BMI": "30",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_049",
+      "gestaional_age": "38",
+      "demographic_age": "32",
+      "BMI": "27",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    },
+    {
+      "patient_id": "patient_050",
+      "gestaional_age": "23",
+      "demographic_age": "26",
+      "BMI": "20",
+      "examination_findings": [
+        "Normal skull apperance",
+        "No choroid plexus cyst seen",
+        "Normal 4 chamber view",
+        "No spina bifida",
+        "Normal",
+        "Normal",
+        "Hands and feet appear normal",
+        "There is no structural defects and normal flow patternsjgno fetal abnormalities detected in this scan"
+      ]
+    }
+  ]
+}
