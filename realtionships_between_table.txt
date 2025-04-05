@@ -1,0 +1,31 @@
+Table Relationships:
+
+1. patients (PatientID)
+   - One-to-Many with appointments (PatientID)
+   - One-to-Many with ultrasound_results (PatientID)
+   - One-to-Many with billing (PatientID)
+   - One-to-Many with reports (PatientID)
+   - One-to-Many with follow_up (PatientID)
+
+2. appointments (AppointmentID)
+   - Many-to-One with patients (PatientID)
+   - One-to-Many with ultrasound_results (AppointmentID)
+   - One-to-Many with billing (AppointmentID)
+   - One-to-Many with reports (AppointmentID)
+   - One-to-Many with follow_up (AppointmentID)
+
+3. ultrasound_results (ResultID)
+   - Many-to-One with patients (PatientID)
+   - Many-to-One with appointments (AppointmentID)
+
+4. billing (BillID)
+   - Many-to-One with patients (PatientID)
+   - Many-to-One with appointments (AppointmentID)
+
+5. reports (ReportID)
+   - Many-to-One with patients (PatientID)
+   - Many-to-One with appointments (AppointmentID)
+
+6. follow_up (FollowUpID)
+   - Many-to-One with patients (PatientID)
+   - Many-to-One with appointments (AppointmentID)
